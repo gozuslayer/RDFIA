@@ -1,0 +1,1 @@
+drawPatches(I,r,s,sifts)
